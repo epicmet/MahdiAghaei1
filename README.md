@@ -1,10 +1,9 @@
 <h2 align='center'>Hello fellas, Welcome to my Github account. 👨🏻‍💻 </h2>
 
----
-
 - 🙋🏻‍♂️ I am currently a Web developer passionately learning Typescript and Web Dev.
 - 📈 I love to improve my workflow by developing tiny apps in my need.
 - 🔭 My goal for 2022 is to contribute on Github more than last year.
+- 💻 Right now I am working on [pam](https://github.com/MahdiAghaei1/pam).
 - ✉️ Reach me via [mahd.aghaei@gmail.com](mailto:mahd.agahei@gmail.com)
 
 
@@ -14,6 +13,6 @@ I love contributing on Github repos, Learning more about Linux and C lang, Getti
 Also I enjoy drawing :P
 </p>
 
-<br/>
+<br />
 
 <img align='center' alt="Mahdi's GitHub stats" src='https://github-readme-stats.vercel.app/api?username=MahdiAghaei1&count_private=true&show-icons=true&theme=tokyonight' />
