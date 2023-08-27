@@ -6,7 +6,7 @@
 - :notebook: Also sometimes I update my [Telegram Channel](https://t.me/geekingaround) with recent discoveries and thoughts I have.
 
 <p align='left'>
-I am a non-CS student and I studied <a href='https://en.wikipedia.org/wiki/Medical_laboratory_scientist'>MLS</a> in university. But my passion and love in Computer Science and programming in general lead me to this direction. I like contributing on Github repos, Learning more about Software engeenering and Getting more confortable with Linux and CLI. Also I enjoy drawing :P
+Friends call me a the Geekest person they've seen, and I LOVE it. I'm a <a href='https://en.wikipedia.org/wiki/Medical_laboratory_scientist'>MLS</a> graduate but my passion and love in Computer Science and programming lead me to this direction. I love to learn more and more about Software engeenering and make tools that make people and developers life easier. Also I enjoy drawing :P
 </p>
 
 <br />
