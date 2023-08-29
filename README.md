@@ -1,6 +1,6 @@
 <h2 align='center'>Hi, Welcome to my Github account. 👨🏻‍💻 </h2>
 
-- 🙋🏻‍♂️ My name is Mahdi and I am currently a Backend developer mainly working with Typescript and Golang.
+- 🙋🏻‍♂️ My name is Mahdi and I am currently a Backend developer mainly working with Typescript, Java and Golang.
 - 📈 I love to improve my workflow by developing tiny apps in my need (checkout [pam](https://github.com/MahdiAghaei1/pam)).
 - ✉️ Reach me via [mahd.aghaei@gmail.com](mailto:mahd.agahei@gmail.com)
 - :notebook: Also sometimes I update my [Telegram Channel](https://t.me/geekingaround) with recent discoveries and thoughts I have.
