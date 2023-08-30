@@ -4,9 +4,14 @@
 - 📈 I love to improve my workflow by developing tiny apps in my need (checkout [pam](https://github.com/MahdiAghaei1/pam)).
 - ✉️ Reach me via [mahd.aghaei@gmail.com](mailto:mahd.agahei@gmail.com)
 - :notebook: Also sometimes I update my [Telegram Channel](https://t.me/geekingaround) with recent discoveries and thoughts I have.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,react,java,golang,docker,kubernetes,vim" />
+  </a>
+</p>
 
 <p align='left'>
-Friends call me a the Geekest person they've seen, and I LOVE it. I'm a <a href='https://en.wikipedia.org/wiki/Medical_laboratory_scientist'>MLS</a> graduate but my passion and love in Computer Science and programming lead me to this direction. I love to learn more and more about Software engeenering and make tools that make people and developers life easier. Also I enjoy drawing :P
+Friends call me the Geekest person they've ever seen, and I LOVE it. I'm a <a href='https://en.wikipedia.org/wiki/Medical_laboratory_scientist'>MLS</a> graduate but my passion and love in Computer Science and programming lead me to this direction. I love to learn more and more about Software engeenering and make tools that make people and developers life easier. Also I enjoy drawing :P
 </p>
 
 <br />
